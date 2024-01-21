@@ -8,9 +8,13 @@ You can also find instructions for installing Octave/MATLAB in the \Environment 
 fmincg.m - Function minimization routine (similar to fminunc) plotFit.m - Plot a polynomial fit trainLinearReg.m - Trains linear regression using your cost function
 
 1.linearRegCostFunction.m - Regularized linear regression cost function
+
 2.learningCurve.m - Generates a learning curve
+
 3.polyFeatures.m - Maps data into polynomial feature space
+
 4.validationCurve.m - Generates a cross validation curve
+
 5.indicates files you will need to complete
 
 Throughout the exercise, you will be using the script ex5.m. These scripts set up the dataset for the problems and make calls to functions that you will write. You are only required to modify functions in other files, by following the instructions in this assignment.
